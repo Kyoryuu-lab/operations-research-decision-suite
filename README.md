@@ -30,7 +30,7 @@
   <li>
     <dl>
       <dt><b>Empirical Time-Series Forecasting:</b></dt>
-      <dd>Applies Naive and sliding-window rolling Moving Averages (2-week and 4-week MA) over sequential demand registrations[span_44](start_span)[span_44](end_span).</dd>
+      <dd>Applies Naive and sliding-window rolling Moving Averages (2-week and 4-week MA) over sequential demand registrations.</dd>
       <dd>Validates model performance and selects optimal forecasting candidates based on Mean Squared Error (MSE).</dd>
     </dl>
   </li>
